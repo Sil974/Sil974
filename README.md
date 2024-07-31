@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**Sil974/Sil974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou a Silvana
+Estou estudando na [Alura}(https://www.com.br)
+Estou aperfeiçoando minhas experiências
 
-Here are some ideas to get you started:
+### Este é meu email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+silrib123@gmail.com
+
+![](https://media.tenor.com/xr9X1wTvFpYAAAAM/smokin-hot-love-flaming-heart.gif)
+
+
+
